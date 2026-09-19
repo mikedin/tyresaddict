@@ -41,13 +41,13 @@
 	<generator>https://wordpress.org/?v=7.1</generator>
 
 					<item>
-		<title><![CDATA[YMM Finder]]></title>
+		<title><![CDATA[]]></title>
 		<link>http://tyresaddict.ru/ymm-shortcode/</link>
 		<pubDate>Sun, 13 Sep 2026 23:07:42 +0000</pubDate>
 		<dc:creator><![CDATA[mikedin]]></dc:creator>
 		<guid isPermaLink="false">http://tyresaddict.ru/?page_id=3112</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div style="padding:8em 4em 4em 4em;background-color:#555;background-image:url(https://b2b.tyresaddict.com/img/backgrounds/tyres-2.jpg);background-size: cover;background-position-y:bottom;">
+		<content:encoded><![CDATA[<div style="padding:8em 4em 4em 4em;margin:auto -20px;background-color:#555;background-image:url(https://b2b.tyresaddict.com/img/backgrounds/tyres-2.jpg);background-size: cover;background-position-y:bottom;">
 [tyresaddict-ymm-finder theme="glasss" redirect_url="/shop/"]
 </div> ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
