@@ -47,9 +47,34 @@
 		<dc:creator><![CDATA[mikedin]]></dc:creator>
 		<guid isPermaLink="false">http://tyresaddict.ru/?page_id=3112</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div style="padding:12em 4em 4em 4em;margin:-3.5em -20px auto -20px;background-color:#555;background-image:url(https://b2b.tyresaddict.com/img/backgrounds/tyres-2.jpg);background-size: cover;background-position-y:bottom;">
+		<content:encoded><![CDATA[<div style="padding:5em 4em 5em 4em;margin:-3.5em -20px auto -20px;background-color:#555;background-image:url(https://b2b.tyresaddict.com/img/backgrounds/tyres-2.jpg);background-size: cover;background-position-y:bottom;">
+<h1 style="text-align:center;color:#fff;font-weight:700;margin-bottom:0.4em;">Find Parts For Your Vehicle</h1>
+<p style="text-align:center;color:#fff;font-weight:400;font-size:18px;margin-bottom:3.5em;">With best YMM plugin</p>
 [tyresaddict-ymm-finder theme="glasss" redirect_url="/shop/"]
-</div> ]]></content:encoded>
+</div> 
+<div style="margin:0 -20px 40px -20px; padding: 25px 80px 40px 50px;background-color:#f9f9f9;display:flex;justify-content:space-between;">
+<div style="">
+<h3 style="color:#ea5b0c;font-weight:700;margin-bottom: 10px;">For big shops</h3>
+<p style="font-weight: 400;color: #888;margin: 0;">Supports a lot of SKU</p>
+</div>
+<div style="">
+<h3 style="color:#ea5b0c;font-weight:700;margin-bottom: 10px;">Best UI</h3>
+<p style="font-weight: 400;color: #888;margin: 0;">Try the best UI and widgets</p>
+</div>
+<div style="">
+<h3 style="color:#ea5b0c;font-weight:700;margin-bottom: 10px;">Features and UX</h3>
+<p style="font-weight: 400;color: #888;margin: 0;">Modern UX actions and practices</p>
+</div>
+<div style="">
+<h3 style="color:#ea5b0c;font-weight:700;margin-bottom: 10px;">Customization</h3>
+<p style="font-weight: 400;color: #888;margin: 0;">For your shop & theme design</p>
+</div>
+</div>
+<div style="width:1200px;margin:60px auto;">
+<h3>Auto Parts</h3>
+[products]
+</div>			
+			]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3112</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-14 02:07:42]]></wp:post_date>
